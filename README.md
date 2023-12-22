@@ -17,7 +17,7 @@ The Todo smart contract is a basic Ethereum smart contract written in Solidity. 
 
 
 ### Viewing the Contract on Etherscan
-You can view the Hilda Token contract on Etherscan by visiting the following links.
+You can view the Token contract on Etherscan by visiting the following links.
 
 [When task was created](https://sepolia.etherscan.io/tx/0xca77e050bde0fc8d3c0efcb16b82de144c88370778ca27f7074440b19cfe7df1)
 
